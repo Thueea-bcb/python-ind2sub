@@ -1,2 +1,2 @@
 # python-ind2sub
-python中类似于MATLAB的下标互转
+python中类似于MATLAB的下标互转，包含ind2sub和sub2ind两个函数
